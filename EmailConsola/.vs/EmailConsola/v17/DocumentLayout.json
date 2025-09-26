@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{70F68CA9-61E4-4A73-8352-BB345B9E869F}|EmailConsolaApp\\EmailConsolaApp.csproj|d:\\personal\\proyectos\\demos\\emailconsolaapp\\emailconsola\\emailconsolaapp\\services\\invoiceguardararchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F68CA9-61E4-4A73-8352-BB345B9E869F}|EmailConsolaApp\\EmailConsolaApp.csproj|solutionrelative:emailconsolaapp\\services\\invoiceguardararchivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70F68CA9-61E4-4A73-8352-BB345B9E869F}|EmailConsolaApp\\EmailConsolaApp.csproj|d:\\personal\\proyectos\\demos\\emailconsolaapp\\emailconsola\\emailconsolaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70F68CA9-61E4-4A73-8352-BB345B9E869F}|EmailConsolaApp\\EmailConsolaApp.csproj|solutionrelative:emailconsolaapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{70F68CA9-61E4-4A73-8352-BB345B9E869F}|EmailConsolaApp\\EmailConsolaApp.csproj|d:\\personal\\proyectos\\demos\\emailconsolaapp\\emailconsola\\emailconsolaapp\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{70F68CA9-61E4-4A73-8352-BB345B9E869F}|EmailConsolaApp\\EmailConsolaApp.csproj|solutionrelative:emailconsolaapp\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Invoice.cs",
-              "DocumentMoniker": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\Models\\Invoice.cs",
-              "RelativeDocumentMoniker": "EmailConsolaApp\\Models\\Invoice.cs",
-              "ToolTip": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\Models\\Invoice.cs",
-              "RelativeToolTip": "EmailConsolaApp\\Models\\Invoice.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:36:43.541Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InvoiceGuardarArchivo.cs",
-              "DocumentMoniker": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\Services\\InvoiceGuardarArchivo.cs",
-              "RelativeDocumentMoniker": "EmailConsolaApp\\Services\\InvoiceGuardarArchivo.cs",
-              "ToolTip": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\Services\\InvoiceGuardarArchivo.cs",
-              "RelativeToolTip": "EmailConsolaApp\\Services\\InvoiceGuardarArchivo.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAA5wBoAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:35:10.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\Program.cs",
               "RelativeDocumentMoniker": "EmailConsolaApp\\Program.cs",
               "ToolTip": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\Program.cs",
               "RelativeToolTip": "EmailConsolaApp\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAwwC0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T15:29:40.365Z",
+              "WhenOpened": "2025-09-26T15:56:15.459Z",
               "EditorCaption": ""
             }
           ]

@@ -65,7 +65,8 @@ string? EmailDestino = Console.ReadLine();
 
 if (!string.IsNullOrWhiteSpace(EmailDestino))
 {
-    var emailSender = new InvoiceCorreo("aritansun@gmail.com", "opxw nxms isgx nrfz");
+    //aqui debes ingresar tu correo electronico y contraseña de aplicaciones (busca un tutorial de youtube en mi readmi)
+    var emailSender = new InvoiceCorreo("correo", "contraseña");
     emailSender.SendInvoice(invoice, EmailDestino);
 }
 else

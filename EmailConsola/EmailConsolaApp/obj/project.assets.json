@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\personal\\Proyectos\\Demos\\EmailConsola\\EmailConsola\\EmailConsolaApp\\EmailConsolaApp.csproj",
+      "projectUniqueName": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\EmailConsolaApp.csproj",
       "projectName": "EmailConsolaApp",
-      "projectPath": "D:\\personal\\Proyectos\\Demos\\EmailConsola\\EmailConsola\\EmailConsolaApp\\EmailConsolaApp.csproj",
+      "projectPath": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\EmailConsolaApp.csproj",
       "packagesPath": "C:\\Users\\leoni\\.nuget\\packages\\",
-      "outputPath": "D:\\personal\\Proyectos\\Demos\\EmailConsola\\EmailConsola\\EmailConsolaApp\\obj\\",
+      "outputPath": "D:\\personal\\Proyectos\\Demos\\EmailConsolaApp\\EmailConsola\\EmailConsolaApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

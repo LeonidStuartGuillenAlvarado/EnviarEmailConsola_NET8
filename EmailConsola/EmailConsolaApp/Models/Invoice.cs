@@ -19,6 +19,7 @@ namespace EmailConsolaApp.Models
         public string CustomerName {get; set;}
         public double Amount { get; set; }
         public DateTime IssueDate { get; set; }
+        public string metodoPago { get; set; }
 
     }
 }

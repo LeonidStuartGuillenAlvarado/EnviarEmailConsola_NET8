@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EmailConsoleApp_V0/1.0.0": {
+        "runtime": {
+          "EmailConsoleApp_V0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EmailConsoleApp_V0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

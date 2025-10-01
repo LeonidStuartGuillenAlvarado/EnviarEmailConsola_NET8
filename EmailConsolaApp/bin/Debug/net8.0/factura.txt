@@ -1,0 +1,8 @@
+===================== FACTURA =====================ID: 1
+ ID CLIENTE: 1
+ CLIENTE: Leo
+ MONTO: 500
+ IVA: 605,00 €
+ FECHA DE EMISIÓN: 29/09/2025 15:13
+ METODO DE PAGO: PayPal 
+===================================================

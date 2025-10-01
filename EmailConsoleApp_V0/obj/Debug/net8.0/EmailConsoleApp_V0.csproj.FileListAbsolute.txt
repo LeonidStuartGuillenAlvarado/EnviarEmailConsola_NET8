@@ -1,0 +1,15 @@
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\EmailConsoleApp_V0.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\EmailConsoleApp_V0.AssemblyInfoInputs.cache
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\EmailConsoleApp_V0.AssemblyInfo.cs
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\EmailConsoleApp_V0.csproj.CoreCompileInputs.cache
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\EmailConsoleApp_V0.sourcelink.json
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\bin\Debug\net8.0\EmailConsoleApp_V0.exe
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\bin\Debug\net8.0\EmailConsoleApp_V0.deps.json
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\bin\Debug\net8.0\EmailConsoleApp_V0.runtimeconfig.json
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\bin\Debug\net8.0\EmailConsoleApp_V0.dll
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\bin\Debug\net8.0\EmailConsoleApp_V0.pdb
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\EmailConsoleApp_V0.dll
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\refint\EmailConsoleApp_V0.dll
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\EmailConsoleApp_V0.pdb
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\EmailConsoleApp_V0.genruntimeconfig.cache
+D:\personal\Proyectos\Demos\EmailConsolaApp\EmailConsola\EmailConsoleApp_V0\obj\Debug\net8.0\ref\EmailConsoleApp_V0.dll

@@ -1,8 +1,0 @@
-===================== FACTURA =====================
-ID: 1
- ID CLIENTE: 1
- CLIENTE: Leonid Guillen
- MONTO: 5000
- IVA: 6.050,00 €
- FECHA DE EMISIÓN: 26/09/2025 12:42
- METODO DE PAGO: Transferencia ===================================================

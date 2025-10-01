@@ -1,0 +1,36 @@
+﻿//InvoiceGuardarArchivo.cs
+using EmailConsolaApp.Models;
+
+namespace EmailConsolaApp.Services
+{
+    public class InvoiceGuardarArchivo : InvoiceGuardar
+    {
+        private const string Archivo = "factura.txt";
+
+        public void Save(Invoice invoice, double total)
+        {
+            string line = "===================== FACTURA =====================" +
+                $"ID: {invoice.Id}" +
+                $"\n ID CLIENTE: {invoice.CustomerId}" +
+                $"\n CLIENTE: {invoice.CustomerName}" +
+                $"\n MONTO: {invoice.Amount}" +
+                $"\n IVA: {total:C}" +
+                $"\n FECHA DE EMISIÓN: {invoice.IssueDate:g}" +
+                $"\n METODO DE PAGO: {invoice.metodoPago} "+
+                "\n===================================================";
+            if (!File.Exists(Archivo) || !File.ReadAllLines(Archivo).Contains(line))
+            {
+                //el metodo de abajo hace que se forme un historial de facturas gracias a "appendalltext"
+                //File.AppendAllText(Archivo, line + Environment.NewLine);
+
+                //esto hace que cada vez que el programa sea ejecutado no exista un historial previo
+                File.WriteAllText(Archivo, line + Environment.NewLine);
+                Console.WriteLine("Factura Guardada...");
+            }
+            else
+            {
+                Console.WriteLine("Factura ya existe");
+            }
+        }
+    }
+}
